@@ -1,2 +1,0 @@
-# generatesafelink
-file javascript margatomsio
